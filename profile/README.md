@@ -4,9 +4,9 @@
 
 Bem-vindo à **iCida Tech**!
 
-Somos uma iniciativa dedicada à criação de soluções tecnológicas inovadoras, reunindo inteligência artificial, desenvolvimento de software, automação e educação digital.
+É uma iniciativa dedicada à criação de soluções tecnológicas inovadoras, reunindo inteligência artificial, desenvolvimento de software, automação e educação digital.
 
-Acreditamos que a tecnologia deve ser acessível, inteligente e capaz de transformar positivamente a vida das pessoas e das organizações.
+Acredito que a tecnologia deve ser acessível, inteligente e capaz de transformar positivamente a vida das pessoas e das organizações.
 
 ---
 
